@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @INOOB1946
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-INOOB1946/INOOB1946 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in programin
+- 🌱 I’m currently learning języki programowanie: html css python java js lua sql ts C++ C# C php kotlin go shift
+- 📫 How to reach me? Discord: inoob1936 (but I don't accept invitations haha)
